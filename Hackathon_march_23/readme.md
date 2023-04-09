@@ -1,9 +1,9 @@
 # Цели обучения в Яндекс Практикум - результаты опроса студентов
 
 ## Ссылки на материалы проекта
-* 1 [Аналитический проект (IPYNB)](https://github.com/AleksandrK86/Pet-projects/blob/main/Hackathon_march_23/Hackathon_march_23.ipynb)
-* 2 [Аналитический проект (PDF, без кода)](https://github.com/AleksandrK86/Pet-projects/blob/main/Hackathon_march_23/Hackathon_march_23.pdf)
-* 3 [Архив с графиками в .SVG](https://github.com/AleksandrK86/Pet-projects/blob/main/Hackathon_march_23/Plot_SVG.zip)
+* 1 [Аналитический проект (IPYNB)](https://github.com/AleksandrK86/my_projects/blob/main/Hackathon_march_23/Hackathon_march_23.ipynb)
+* 2 [Аналитический проект (PDF, без кода)](https://github.com/AleksandrK86/my_projects/blob/main/Hackathon_march_23/Hackathon_march_23.pdf)
+* 3 [Архив с графиками в .SVG](https://github.com/AleksandrK86/my_projects/blob/main/Hackathon_march_23/Plot_SVG.zip)
 * 4 [Презентация (Figma)](https://www.figma.com/file/0o6SPvvrgdUrM6RITumpaB/%D0%A5%D0%B0%D0%BA%D0%B0%D1%82%D0%BE%D0%BD-%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81-%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D1%83%D0%BC_%D0%BC%D0%B0%D1%80%D1%82-2023_%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0-5?node-id=0-1&t=LULtkMV4i8WnWj6i-0) - подготовлена дизайнерами по результатам аналитического проекта
 
 ## Краткое описание проекта
