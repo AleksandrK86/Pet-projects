@@ -15,4 +15,4 @@
 * Создать скрипты для автоматизации рутинных задач
 
 ## Результат:
-[Follow the link to the dashborad (Yandex Datlens)]([https://datalens.yandex/duyy9z3rylcy3])
+[Follow the link to the dashborad (Yandex Datlens)](https://datalens.yandex/duyy9z3rylcy3)
